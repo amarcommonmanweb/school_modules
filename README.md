@@ -1,4 +1,4 @@
-module_attendance
+module_X
 =================
 
-the attendance module ... self sustaining .. but with detachable data source..
+the X module ... self sustaining .. but with detachable data source..
