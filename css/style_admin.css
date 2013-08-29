@@ -1,0 +1,13 @@
+/* 
+    Document   : style_admin
+    Created on : Aug 20, 2013, 5:56:55 PM
+    Author     : amar
+    Description:
+        Purpose of the stylesheet follows.
+To support the css styling of all the components on the web application admin module
+*/
+
+root { 
+    display: block;
+}
+
